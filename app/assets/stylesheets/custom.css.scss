@@ -49,7 +49,6 @@ body {
 /*
   ========================================
   Home
-  
   ========================================
 */
 
@@ -68,4 +67,24 @@ body {
 
 .home-description {
   font-size: 20px;
+}
+
+/*
+  ========================================
+  Articles
+  ========================================
+*/
+
+#articles-page {
+  background-color: #A6C1F0;
+}
+
+#article-title {
+  color: #C893FA;
+  font-size: larger;
+  font-weight: 1000;
+}
+
+#article-body {
+  background-color: #F0EC82;
 }
