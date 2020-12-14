@@ -10,10 +10,6 @@
   background-color: #EEBCA3 !important;
 }
 
-#main-button {
-  color: black;
-}
-
 /*
   ========================================
   Sticky Footer
@@ -87,4 +83,32 @@ body {
 
 #article-body {
   background-color: #F0EC82;
+}
+
+/*
+  ========================================
+  Edit form
+  ========================================
+*/
+
+#form-back {
+  background-color: #EEBCA3;
+}
+
+.cancel-text {
+  color: #F0EC82;
+}
+
+.cancel-text:hover {
+  color: #EEBCA3;
+}
+
+/*
+  ========================================
+  Buttons
+  ========================================
+*/
+
+.btn-text {
+  color: black;
 }
