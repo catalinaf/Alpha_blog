@@ -36,10 +36,11 @@ body {
 */
 
 body {
+  background-color: #A6C1F0;
   background-image: asset-url('slide1.jpg');
-  background-position: center center;
+  background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto 60%;
 }
 
 /*
